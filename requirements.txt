@@ -1,0 +1,8 @@
+PyQt5
+PyQtWebEngine
+qasync
+aiohttp
+pymavlink
+websockets
+python-dotenv
+folium
